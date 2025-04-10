@@ -70,7 +70,7 @@ h2
 }
 .form-control
 {
-	width: 150%;
+	width: 100%;
 	padding: 12px;
 	border: 1px solid var(--input-border);
 	border-radius: 6px;
@@ -99,7 +99,7 @@ h2
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	width: 100%;
+	width: 150%;
 	transition: all 0.3s ease;
 	font-family: 'Vazir', sans-serif;
 }
