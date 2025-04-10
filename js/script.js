@@ -184,7 +184,7 @@ document.addEventListener('DOMContentLoaded', function()
 			var url;
 			if (type === 'hiddify' || type === 'karing')
 			{
-				var username = document.getElementById('username').value || 'Anonymous';
+				var username = document.getElementById('username').value || 'mahdione71';
 				var license = document.getElementById('license').value || '';
 				var type1 = document.getElementById('type1').value || '40-80';
 				var type2 = document.getElementById('type2').value || '40-10';
