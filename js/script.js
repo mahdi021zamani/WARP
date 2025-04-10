@@ -67,7 +67,7 @@ function updateTexts()
                         'copyUrlButton': 'کپی URL',
                         'contactTitle': 'ارتباط با من',
                         'telegramButton': 'پیام در ربات تلگرام',
-                        'footerDesigner': 'طراحی شده توسط: Anonymous',
+                        'footerDesigner': 'طراحی شده توسط: mahdizamani',
                         'footerThanks': 'با تشکر از Yebekhe و IRCF',
                         'noisePacketsLabel': 'IFP',
                         'noisePacketSizeLabel': 'IFPS',
@@ -185,7 +185,7 @@ document.addEventListener('DOMContentLoaded', function()
                         var url;
                         if (type === 'hiddify' || type === 'karing')
                         {
-                                var username = document.getElementById('username').value || 'Anonymous';
+                                var username = document.getElementById('username').value || 'mahdizamani';
                                 var license = document.getElementById('license').value || '';
                                 var type1 = document.getElementById('type1').value || '40-80';
                                 var type2 = document.getElementById('type2').value || '40-10';
