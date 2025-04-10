@@ -30,7 +30,7 @@ body
 	padding: 24px;
 	border-radius: 12px;
 	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-	width: 140%;
+	width: 100%;
 	max-width: 400px;
 	transition: all 0.3s ease;
 }
@@ -70,7 +70,7 @@ h2
 }
 .form-control
 {
-	width: 100%;
+	width: 150%;
 	padding: 12px;
 	border: 1px solid var(--input-border);
 	border-radius: 6px;
