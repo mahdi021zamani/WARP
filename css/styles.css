@@ -99,7 +99,7 @@ h2
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	width: 150%;
+	width: 100%;
 	transition: all 0.3s ease;
 	font-family: 'Vazir', sans-serif;
 }
